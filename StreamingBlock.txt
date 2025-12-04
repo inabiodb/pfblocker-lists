@@ -86,6 +86,64 @@ api.ecuavisa.com
 stream.ecuavisa.com
 cdn.ecuavisa.com
 
+# RTS
+rts.com.ec
+envivo.rts.com.ec
+streaming.rts.com.ec
+rtstv.com
+rtstv.ec
+rtsplayer.com
+
+# GAMAVISION / GAMA TV
+gamavision.com.ec
+gamatv.com.ec
+envivo.gamavision.com.ec
+stream.gamatv.com.ec
+gamatvplay.com
+
+# TC TELEVISION
+tctelevision.com
+tctelevision.com.ec
+envivo.tctelevision.com.ec
+streaming.tctelevision.com.ec
+tctv.ec
+tctv.com.ec
+
+# CANAL UNO
+canalunotv.com
+canaluno.com.ec
+envivo.canalunotv.com
+stream.canalunotv.com
+
+# TVC / TELENET / TVCABLE
+tvc.com.ec
+tvcable.com.ec
+envivo.tvc.com.ec
+streaming.tvc.com.ec
+tvcplay.com
+tvcplay.ec
+
+# ECUADOR TV (ETV)
+ecuadortv.ec
+ecuadortv.com.ec
+envivo.ecuadortv.ec
+streaming.ecuadortv.ec
+etv.ec
+
+# OROMAR TV
+oromartv.com
+oromartv.com.ec
+envivo.oromartv.com
+stream.oromartv.com.ec
+oromartvplay.com
+
+# CANELA TV / CANELA ONLINE
+canela.tv
+canelaonline.com
+canelaonline.com.ec
+stream.canelaonline.com
+envivo.canelaonline.com
+
 ########## YOUTUBE STREAMING (OPCIONAL – COMENTADO) ##########
 # googlevideo.com
 # ytimg.com
