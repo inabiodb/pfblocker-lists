@@ -1,0 +1,116 @@
+###############################################
+# BLOQUEO INSTITUCIONAL DE STREAMING
+# INABIO – Firewalls pfSense
+# Última actualización: 2025-12-04
+###############################################
+
+########## NETFLIX ##########
+nflxvideo.net
+nflxso.net
+nflxext.com
+nflximg.net
+nflximg.com
+nflxsearch.net
+nflxvideo.net
+fast.com
+
+########## AMAZON PRIME VIDEO ##########
+primevideo.com
+media-amazon.com
+aiv-cdn.net
+ssl-images-amazon.com
+fls-na.amazon.com
+atv-ext.amazon.com
+amazonvideo.com
+
+########## DISNEY+ ##########
+disneyplus.com
+disney-plus.net
+dssott.com
+bam.nr-data.net
+cdn.registerdisney.go.com
+apis.disneyplus.com
+
+########## HBO MAX / MAX ##########
+hbomax.com
+hbomaxcdn.com
+hbonow.com
+max.com
+bam.nr-data.net
+
+########## PARAMOUNT+ ##########
+paramountplus.com
+pplusstatic.com
+cbsi.video
+
+########## PLUTO TV ##########
+pluto.tv
+plutotv.net
+plutotv.com
+plutotv-prod.com
+pluto.tv.cdn.cloudflare.net
+
+########## MAGISTV (IPTV PIRATA) ##########
+magistv.com
+magisplay.net
+magisgo.com
+magisiptv.com
+magislatino.com
+magisfull.com
+magispro.tv
+magisapp.net
+magis-plus.com
+magisnet.tv
+magislatino.tv
+
+########## IPTV y TV Pirata (GENÉRICO) ##########
+kbrostream.com
+iptvstack.com
+xtream-codes.com
+flixnet.to
+streambtw.com
+watchserieshd.tv
+streamtape.com
+doodstream.com
+
+########## TV ECUADOR (BLOQUEO OPCIONAL) ##########
+
+## Teleamazonas
+teleamazonas.com
+api.teleamazonas.com
+stream.teleamazonas.com
+
+## Ecuavisa
+ecuavisa.com
+api.ecuavisa.com
+stream.ecuavisa.com
+cdn.ecuavisa.com
+
+########## YOUTUBE STREAMING (OPCIONAL – COMENTADO) ##########
+# googlevideo.com
+# ytimg.com
+
+########## TIKTOK STREAMING / VIDEO ##########
+# Nota: esto bloquea carga de videos pero no la app completa
+tiktokcdn.com
+tiktokcdn-us.com
+tiktokv.com
+byteoversea.com
+byteimg.com
+ibyteimg.com
+
+########## TWITCH ##########
+twitch.tv
+ttvnw.net
+jtvnw.net
+akamaihd.net
+
+########## SPOTIFY STREAMING ##########
+audio-fa.scdn.co
+audio2.spotify.com
+spclient.wg.spotify.com
+apresolve.spotify.com
+
+###############################################
+# FIN DEL ARCHIVO
+###############################################
