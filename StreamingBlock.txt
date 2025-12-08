@@ -1,6 +1,6 @@
 ###############################################
 # BLOQUEO INSTITUCIONAL DE STREAMING
-# INABIO – Firewalls pfSense
+# INABIO – Firewall Sede Carolina
 # Última actualización: 2025-12-04
 ###############################################
 
@@ -43,6 +43,16 @@ paramountplus.com
 pplusstatic.com
 cbsi.video
 
+########## Apple TV+ ##########
+tv.apple.com
+api-tv.apple.com
+itunes.apple.com
+
+########## Vix (Televisa/Univisión) ##########
+tv.apple.com
+api-tv.apple.com
+itunes.apple.com
+
 ########## PLUTO TV ##########
 pluto.tv
 plutotv.net
@@ -63,6 +73,24 @@ magis-plus.com
 magisnet.tv
 magislatino.tv
 
+########## CRACKLE ##########
+crackle.com
+sonycrackle.com
+crackleplus.com
+
+########## XUMO ##########
+xumo.tv
+xumotv.com
+xumo.com
+stream.xumo.com
+xumo-cdn.com
+
+########## TIVIFY ##########
+tivify.tv
+edge.tivify.tv
+stream.tivify.tv
+cdn.tivify.tv
+
 ########## IPTV y TV Pirata (GENÉRICO) ##########
 kbrostream.com
 iptvstack.com
@@ -73,7 +101,34 @@ watchserieshd.tv
 streamtape.com
 doodstream.com
 
-########## TV ECUADOR (BLOQUEO OPCIONAL) ##########
+########## Kodi Addons (piratería frecuente) ##########
+kodiondemand.com
+kodi.wiki
+tvaddons.co
+supremacy.org.uk
+
+########## Rakuten TV ##########
+rakuten.tv
+rakutenstatic.com
+
+########## LIBRE FUTBOL (pirata) ##########
+librefutboltv.com
+librefutbol.info
+futbolenvivo.gratis
+
+########## TARJETA ROJA (pirata) ##########
+tarjetarojatvonline.sx
+tarjetarojatvonline.nu
+rojadirecta.me
+rojadirecta.tv
+
+########## TUBI ##########
+tubitv.com
+tubi.tv
+m-tubitv.com
+tubi.video
+
+########## TV NACIONAL ECUADOR ##########
 
 ## Teleamazonas
 teleamazonas.com
@@ -144,12 +199,42 @@ canelaonline.com.ec
 stream.canelaonline.com
 envivo.canelaonline.com
 
-########## YOUTUBE STREAMING (OPCIONAL – COMENTADO) ##########
+# CLARO VIDEO / CLARO TV
+clarovideo.com
+clarovideo.net
+claro.com.ec
+clarotv.com
+clarotv.clarovideo.com
+vod.clarovideo.com
+
+# XTRIM (TV Cabe) / ZAPPING (Ecuador)
+# Xtrim usa dominios heredados de TVCable y CDN externos
+xtrim.com.ec
+zappingtv.com
+player.zappingtv.com
+edge.zappingtv.com
+live.zappingtv.com
+cdn.zappingtv.com
+
+# CNT PLAY
+cntplay.com
+cntplay.com.ec
+play.cntplay.com
+stream.cntplay.com
+
+# DIRECTV GO / DGO (nuevo nombre)
+directvgo.com
+dgo.com
+edge.dgo.com
+stream.directvgo.com
+prod.directvgo.com
+
+########## YOUTUBE STREAMING (OPCIONAL – ESTÁ COMENTADO) ##########
 # googlevideo.com
 # ytimg.com
 
 ########## TIKTOK STREAMING / VIDEO ##########
-# Nota: esto bloquea carga de videos pero no la app completa
+# Nota: se está bloqueando carga de videos pero no la app completa
 tiktokcdn.com
 tiktokcdn-us.com
 tiktokv.com
